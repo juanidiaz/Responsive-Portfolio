@@ -258,6 +258,7 @@ textarea{
 
 	.mainBody {
 		width: 90%;
+		line-height: 140%;
 	}
 
 	#bio-image {
