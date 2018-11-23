@@ -247,8 +247,13 @@ textarea{
 		height: 38px;
 	}
 
+	p.bio{
+		font-size: 13px;
+	}
+
 	ul{
 		margin-top: -16px;
+		font-size: 15px;
 	}
 
 	.mainBody {
